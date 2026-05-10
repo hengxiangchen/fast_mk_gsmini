@@ -5,7 +5,7 @@
 Enter the current directory
 
 ```bash
-cd ~/FAST_MK_GSMINI/find_marker_generator/
+cd ~/fast_mk_gsmini/find_marker_generator/
 make
-mv src/lib/find_marker.so ~/FAST_MK_GSMINI/utils/
+mv src/lib/find_marker.so ~/fast_mk_gsmini/utils/
 ```

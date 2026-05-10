@@ -1,4 +1,4 @@
-# FAST_MK_GSMINI
+# fast_mk_gsmini
 
 ## Introduction
 
