@@ -26,8 +26,6 @@ in tumx two:
 ```python
 python main.py
 ```
-then you should see
-
 
 ## Acknowledgement
 Our work is built upon [reactive_diffusion_policy](https://github.com/xiaoxiaoxh/reactive_diffusion_policy) and [gs_sdk](https://github.com/joehjhuang/gs_sdk). Thanks for their great work!
