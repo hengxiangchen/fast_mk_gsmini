@@ -1,0 +1,7 @@
+opencv
+pybind11
+numpy
+rospkg
+loguru
+shapely
+ffmpeg
