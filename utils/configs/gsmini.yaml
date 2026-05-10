@@ -3,8 +3,8 @@ device_name: "GelSight Mini"
 # Pixel Per Millimeter
 ppmm: 0.0634
 # Desired Image Width and Height
-imgh: 240
-imgw: 320
+imgh: 2464
+imgw: 3280
 # Raw image width, height, and framerate
 raw_imgh: 2464
 raw_imgw: 3280

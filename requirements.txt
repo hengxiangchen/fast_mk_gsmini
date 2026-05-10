@@ -1,7 +1,8 @@
-opencv
+opencv-python
 pybind11
 numpy
 rospkg
 loguru
 shapely
 ffmpeg
+open3d
