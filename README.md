@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this directory, we realize the maximal marker reading frequence of gelsightmini about 25hz, providing the source code and compilation files for find_marker.so (located at find_marker_generator/srclib/find_marker.so). 
+In this directory, we realize gelsightmini at the maximal reading frequence of 25hz for marker deformation, providing the source code and compilation files for find_marker.so (located at find_marker_generator/srclib/find_marker.so). 
 
 ## Requirements
 
